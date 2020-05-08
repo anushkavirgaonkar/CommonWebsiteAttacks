@@ -4,7 +4,7 @@ Demonstration of common website attacks such as the SQL injection attack, cross-
 # SQL Injection
 
 ## Demonstration
-![Login page](/assets/sqli1.PNG)
+![Login page](/assets/sqli1.PNG = 100x200)
 This is the front-end login page. The username and password are sent as POST parameters $uname and $pass respectively. Then the SQL query 
 
 ````
